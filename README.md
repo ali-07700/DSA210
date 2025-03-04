@@ -6,7 +6,7 @@ The goal of this project is to analyze ATP Tour men's tennis matches from the 21
 
 Data Source
 
-The dataset will be obtained from Kaggle, which contains detailed match statistics from ATP tournaments. The dataset includes various performance indicators such as service percentage, double faults, aces, break points, and more. To enhance the dataset, we will derive new features by creating meaningful ratios, such as:
+The dataset will be obtained from Kaggle, which contains detailed match statistics from ATP tournaments. The dataset includes various performance indicators such as service percentage, double faults, aces, break points, and more. To enhance the dataset, I will derive new features by creating meaningful ratios or adding extra information such as:
 
 Average Aces per Service Point = (Total Aces) / (Total Service Points)
 
