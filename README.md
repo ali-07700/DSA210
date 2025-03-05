@@ -50,3 +50,10 @@ To extract meaningful insights from the dataset, the following steps will be fol
 - Use statistical methods and visualization tools to identify trends.
 - Compare player attributes across tournaments.
 
+## Hypotheses
+
+### Null Hypothesis (H₀)
+- The performance metrics of ATP Tour tournament winners remain consistent over time, allowing for the prediction of future winners' match statistics based on historical trends.
+
+### Alternative Hypothesis (H₁)
+- The performance metrics of ATP Tour tournament winners fluctuate unpredictably over time, making it impossible to reliably estimate future winners' match statistics.
