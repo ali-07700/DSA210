@@ -1,7 +1,7 @@
 # Project Proposal: Analyzing ATP Tour Men's Tennis Matches
 
 ## Motivation
-The goal of this project is to analyze ATP Tour men's tennis matches from the 21st century to determine the ideal player attributes for each tournament. Tennis is a sport with fewer surprises compared to others, making it a strong candidate for predictive modeling using data science techniques. By leveraging historical match data, I aim to identify key performance metrics that contribute to tournament victories and use this information to forecast future success needings for every different tournament.
+The goal of this project is to analyze ATP Tour men's tennis matches from the 21st century to determine the ideal player attributes for different surfaces and tournament levels. Tennis is a sport with fewer surprises compared to others, making it a strong candidate for predictive modeling using data science techniques. By leveraging historical match data, I aim to identify key performance metrics that contribute to success on various court surfaces and at different tournament tiers. This information will help forecast the attributes most crucial for winning under specific playing conditions.
 
 ---
 
